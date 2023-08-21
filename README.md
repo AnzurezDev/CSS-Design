@@ -74,3 +74,8 @@ Get keycode on key press
 ![Event Keycode](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnptaDNhbncyajdhZHBqOThuY2d5OG5yN2dhd2ZqYjE5a2M2ZzA3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOlopnk4SiZiZ2TIU2/giphy.gif "Event Keycode")
 <br>
 [![HTML](https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=html5)]() [![CSS](https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=css3)]() [![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-gray?style=for-the-badge&logo=javascript)]()
+
+### FAQ Collapse
+![FAQ Collapse](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ5c2oyZXZ5bDVpMnp5cXZlYTdwajF1Mzdob2cxdXI3OTJtODY5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O17vGtvzmyNW3mO28e/giphy.gif "FAQ Collapse")
+<br>
+[![HTML](https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=html5)]() [![CSS](https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=css3)]() [![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-gray?style=for-the-badge&logo=javascript)]()
