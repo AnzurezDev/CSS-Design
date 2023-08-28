@@ -84,3 +84,8 @@ Get keycode on key press
 ![Random Choice Picker](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmp1MGJsZTdiZDkzNzY1cnFoanJzYzg4ZDMzdzV1Z3NxOWlqZHg3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7zIBSf3tXwN6ycrH2n/giphy.gif "Random Choice Picker")
 <br>
 [![HTML](https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=html5)]() [![CSS](https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=css3)]() [![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-gray?style=for-the-badge&logo=javascript)]()
+
+### Animated Navigation
+![Animated Navigation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenowODQ2MWU1d2tmNm16Ym81anVoMGVsODU3MzByYmcxdG5zZjR5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ODaO4RWTgoEtqhZ7UE/giphy.gif "Animated Navigation")
+<br>
+[![HTML](https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=html5)]() [![CSS](https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=css3)]() [![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-gray?style=for-the-badge&logo=javascript)]()
