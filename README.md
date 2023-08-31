@@ -94,3 +94,8 @@ Get keycode on key press
 ![Increment Counter](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm94YWlmNmlsOGx4aXpmemtvdzd1bXBubWthdTk2eGMwc2o3MWg5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J5wZ2MKh93VwW1gMml/giphy.gif "Increment Counter")
 <br>
 [![HTML](https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=html5)]() [![CSS](https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=css3)]() [![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-gray?style=for-the-badge&logo=javascript)]()
+
+### Drink Water
+![Drink Water](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVvYzMydGJleTJ6MnJzY21ucDdjbnd2dzdjNDV0dzF4MzJ1ZWUzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ogCvF1nzzBrMnrabcw/giphy.gif "Drink Water")
+<br>
+[![HTML](https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=html5)]() [![CSS](https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=css3)]() [![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-gray?style=for-the-badge&logo=javascript)]()
